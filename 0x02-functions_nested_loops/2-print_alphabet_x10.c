@@ -2,7 +2,7 @@
 /**
  * print_alphabet_x10 - utilizes on the _putchar function
 */
-void print_alphabet_x10(void);
+void print_alphabet_x10(void)
 {
 	int ch , i;
 
